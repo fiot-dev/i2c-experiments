@@ -6,10 +6,9 @@ Connecting an RPi to an Arduino via i2c
 ## Notes
 
 Feb 14, 2018
--- was able to get a one-wire sensor to report temp values to RPI from Arduino over i2c
--- now looking on sending more complex data structures and commands
 
-## Refs
+- was able to get a one-wire sensor to report temp values to RPI from Arduino over i2c
+- now looking on sending more complex data structures and commands.
 
 https://github.com/pololu/pololu-rpi-slave-arduino-library
 https://embeddedmicro.weebly.com/raspberry-pi.html
